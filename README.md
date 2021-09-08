@@ -1,4 +1,4 @@
-# bootstrap-vue-example
+# TRX NET project frontend
 
 ## Project setup
 ```
